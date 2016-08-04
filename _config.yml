@@ -1,0 +1,14 @@
+layout_spectrum: 0.6080400655046105
+typography_spectrum: 0.0038949530571699142
+color:
+  brandStrength: 0.3218544367700815
+  lightness: 0.022157976171001792
+  saturation: 0.5569336747284979
+  rhythmicContrast: 0.46376154478639364
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: surreality
