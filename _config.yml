@@ -1,4 +1,3 @@
-layout_spectrum: 0.6080400655046105
 typography_spectrum: 0.0038949530571699142
 color:
   brandStrength: 0.3218544367700815
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.6080400655046105
 name: surreality
 title: Sample Our Reality
+description: It's Weird and Wonderful
