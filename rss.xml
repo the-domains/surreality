@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sample Our Reality]]></title>
-        <description><![CDATA[Sample Our Reality]]></description>
+        <title><![CDATA[Our Weird and Wonderful World]]></title>
+        <description><![CDATA[Our Weird and Wonderful World]]></description>
         <link>https://thegrid.ai/surreality/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 22:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 16:13:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/surreality/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50080dad-9ca1-4b1d-ba5b-bdfd49e6c58b.jpg" alt="Frost Archipelago">]]></description>
+            <link>https://thegrid.ai/surreality/941f6538-fed3-48f5-9a38-2b9a290b2ec7/index.html</link>
+            <guid isPermaLink="false">941f6538-fed3-48f5-9a38-2b9a290b2ec7</guid>
+            <pubDate>Fri, 05 Aug 2016 16:13:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05f5b0fe-4953-477e-ac99-676fcf13507c.jpg">]]></description>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/surreality/6d49f556-b4f7-456e-b18b-be205421c513/index.html</link>
             <guid isPermaLink="false">6d49f556-b4f7-456e-b18b-be205421c513</guid>
             <pubDate>Thu, 04 Aug 2016 22:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50080dad-9ca1-4b1d-ba5b-bdfd49e6c58b.jpg">]]></description>
-            <link>https://thegrid.ai/surreality/941f6538-fed3-48f5-9a38-2b9a290b2ec7/index.html</link>
-            <guid isPermaLink="false">941f6538-fed3-48f5-9a38-2b9a290b2ec7</guid>
-            <pubDate>Thu, 04 Aug 2016 22:10:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Light painting with pixelstick]]></title>
