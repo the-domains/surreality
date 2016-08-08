@@ -4,8 +4,22 @@
         <description><![CDATA[Our Weird and Wonderful World]]></description>
         <link>https://thegrid.ai/surreality/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 17:01:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 17:06:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/surreality/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The world is yours, deer]]></title>
+            <description><![CDATA[<article><h1>The world is yours, deer</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25b1b4d3-8ffa-451b-9fc8-97bad00e778e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/surreality/the-world-is-yours-deer/index.html</link>
+            <guid isPermaLink="false">2dc11ed7-0fcd-49a4-bb3c-c6b730f04650</guid>
+            <pubDate>Mon, 08 Aug 2016 17:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34828d54-f7ef-42ed-a5f1-cfbcd5b9c589.jpg">]]></description>
+            <link>https://thegrid.ai/surreality/c8bb86d1-e85d-4611-ab03-ce7aaaf08e65/index.html</link>
+            <guid isPermaLink="false">c8bb86d1-e85d-4611-ab03-ce7aaaf08e65</guid>
+            <pubDate>Mon, 08 Aug 2016 17:03:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2542c93-d319-4d00-94be-4dac757c1996.jpg">]]></description>
@@ -49,13 +63,6 @@
             <pubDate>Fri, 05 Aug 2016 16:13:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34828d54-f7ef-42ed-a5f1-cfbcd5b9c589.jpg">]]></description>
-            <link>https://thegrid.ai/surreality/c8bb86d1-e85d-4611-ab03-ce7aaaf08e65/index.html</link>
-            <guid isPermaLink="false">c8bb86d1-e85d-4611-ab03-ce7aaaf08e65</guid>
-            <pubDate>Thu, 04 Aug 2016 22:10:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Light painting with pixelstick]]></title>
             <description><![CDATA[<article><h1>Light painting with pixelstick</h1><p>More info at thepixelstick.com! We spent the last year building pixelstick, a light painting tool capable of everything from photo-real renders to amazing abstract ribbons. We've improved with every iteration and are excited to finally show off what it can do. Everything was shot by just two slightly sleep deprived guys and one Pixelstick in Brooklyn.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f83450408b8ae969aa617e22dc894484/noop.jpg?input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F481060213_1280x720.jpg"></article>]]></description>
             <link>https://vimeo.com/78163959</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Reduced Spoke Bicycles : Conceptual Bike</h1><p>Conceptual Bike - Ion Lucin has simplified the design of a standard two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a limited use of lin...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11d821ce44263ec917e4ecde74cfe3ebb341c975.jpg"></article>]]></description>
             <link>http://www.trendhunter.com/trends/conceptual-bike</link>
             <guid isPermaLink="false">4f7dc89c-c208-4604-87f9-7a49924c59a8</guid>
-            <pubDate>Thu, 04 Aug 2016 21:34:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Discussing Coffee with Marco Lavazza at the US Open]]></title>
-            <description><![CDATA[<article><h1>Discussing Coffee with Marco Lavazza at the US Open</h1><p>It's been a big year for Lavazza. Not only is it their 120th anniversary, they've also partnered with the Italian Pavillon at the World Exposition Milan 2015 and expanded their tennis partnerships to include a sponsorship of the US Open.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b409d2fe1d9493a232c86da455e19117512c51d1.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/food-drink/lavazza-us-open-2015</link>
-            <guid isPermaLink="false">e0b432bf-06a4-4546-a7b6-5f0a16433a38</guid>
             <pubDate>Thu, 04 Aug 2016 21:34:28 GMT</pubDate>
         </item>
     </channel>
