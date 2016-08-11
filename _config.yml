@@ -12,5 +12,9 @@ color:
     - '#004E98'
 layout_spectrum: 0.6080400655046105
 name: surreality
+navigation:
+  - name: 'The world is yours, deer'
+    id: 2dc11ed7-0fcd-49a4-bb3c-c6b730f04650
+    type: content
 title: Our Weird and Wonderful World
 description: ''
