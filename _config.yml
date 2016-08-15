@@ -1,4 +1,4 @@
-typography_spectrum: 0.7267451810184866
+typography_spectrum: 0.1253915422130376
 color:
   brandStrength: 0.3218544367700815
   lightness: 0.022157976171001792
@@ -10,7 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.6813048268668354
+layout_spectrum: 0.417764708166942
 name: surreality
 title: Our Weird and Wonderful World
 description: ''
